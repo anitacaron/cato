@@ -1,0 +1,13 @@
+id: cato
+title: Cat Ontology
+github_org: anitacaron
+repo: cato
+export_formats:
+  - owl
+  - obo
+release_artefacts:
+  - base
+  - full
+edit_format: ofn
+documentation:
+  documentation_system: mkdocs
