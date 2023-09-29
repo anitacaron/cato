@@ -41,101 +41,125 @@ Declaration(AnnotationProperty(<http://www.geneontology.org/formats/oboInOwl#inS
 #   Classes
 ############################
 
-# Class: <http://purl.obolibrary.org/obo/CL_0000132> (<http://purl.obolibrary.org/obo/CL_0000132>)
+# Class: <http://purl.obolibrary.org/obo/CL_0000132> (corneal endothelial cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0000132> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0000132> "corneal endothelial cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0000287> (<http://purl.obolibrary.org/obo/CL_0000287>)
+# Class: <http://purl.obolibrary.org/obo/CL_0000287> (eye photoreceptor cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0000287> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0000287> "eye photoreceptor cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0000306> (<http://purl.obolibrary.org/obo/CL_0000306>)
+# Class: <http://purl.obolibrary.org/obo/CL_0000306> (crystallin accumulating cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0000306> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0000306> "crystallin accumulating cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0000347> (<http://purl.obolibrary.org/obo/CL_0000347>)
+# Class: <http://purl.obolibrary.org/obo/CL_0000347> (scleral cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0000347> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0000347> "scleral cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0000348> (<http://purl.obolibrary.org/obo/CL_0000348>)
+# Class: <http://purl.obolibrary.org/obo/CL_0000348> (choroidal cell of the eye)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0000348> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0000348> "choroidal cell of the eye")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0000561> (<http://purl.obolibrary.org/obo/CL_0000561>)
+# Class: <http://purl.obolibrary.org/obo/CL_0000561> (amacrine cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0000561> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0000561> "amacrine cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0000575> (<http://purl.obolibrary.org/obo/CL_0000575>)
+# Class: <http://purl.obolibrary.org/obo/CL_0000575> (corneal epithelial cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0000575> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0000575> "corneal epithelial cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0000636> (<http://purl.obolibrary.org/obo/CL_0000636>)
+# Class: <http://purl.obolibrary.org/obo/CL_0000636> (Mueller cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0000636> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0000636> "Mueller cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0000740> (<http://purl.obolibrary.org/obo/CL_0000740>)
+# Class: <http://purl.obolibrary.org/obo/CL_0000740> (retinal ganglion cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0000740> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0000740> "retinal ganglion cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0000745> (<http://purl.obolibrary.org/obo/CL_0000745>)
+# Class: <http://purl.obolibrary.org/obo/CL_0000745> (retina horizontal cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0000745> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0000745> "retina horizontal cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0000748> (<http://purl.obolibrary.org/obo/CL_0000748>)
+# Class: <http://purl.obolibrary.org/obo/CL_0000748> (retinal bipolar neuron)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0000748> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0000748> "retinal bipolar neuron")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0002222> (<http://purl.obolibrary.org/obo/CL_0002222>)
+# Class: <http://purl.obolibrary.org/obo/CL_0002222> (vertebrate lens cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0002222> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002222> "vertebrate lens cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0002303> (<http://purl.obolibrary.org/obo/CL_0002303>)
+# Class: <http://purl.obolibrary.org/obo/CL_0002303> (changed label)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0002303> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002303> "changed label")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0002304> (<http://purl.obolibrary.org/obo/CL_0002304>)
+# Class: <http://purl.obolibrary.org/obo/CL_0002304> (non-pigmented ciliary epithelial cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0002304> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002304> "non-pigmented ciliary epithelial cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0002363> (<http://purl.obolibrary.org/obo/CL_0002363>)
+# Class: <http://purl.obolibrary.org/obo/CL_0002363> (keratocyte)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0002363> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002363> "keratocyte")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0002485> (<http://purl.obolibrary.org/obo/CL_0002485>)
+# Class: <http://purl.obolibrary.org/obo/CL_0002485> (retinal melanocyte)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0002485> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002485> "retinal melanocyte")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0002565> (<http://purl.obolibrary.org/obo/CL_0002565>)
+# Class: <http://purl.obolibrary.org/obo/CL_0002565> (iris pigment epithelial cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0002565> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002565> "iris pigment epithelial cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0002585> (<http://purl.obolibrary.org/obo/CL_0002585>)
+# Class: <http://purl.obolibrary.org/obo/CL_0002585> (retinal blood vessel endothelial cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0002585> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002585> "retinal blood vessel endothelial cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0002586> (<http://purl.obolibrary.org/obo/CL_0002586>)
+# Class: <http://purl.obolibrary.org/obo/CL_0002586> (retinal pigment epithelial cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0002586> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002586> "retinal pigment epithelial cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0011104> (<http://purl.obolibrary.org/obo/CL_0011104>)
+# Class: <http://purl.obolibrary.org/obo/CL_0011104> (interplexiform cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0011104> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0011104> "interplexiform cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_1000432> (<http://purl.obolibrary.org/obo/CL_1000432>)
+# Class: <http://purl.obolibrary.org/obo/CL_1000432> (conjunctival epithelial cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_1000432> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_1000432> "conjunctival epithelial cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_1000443> (<http://purl.obolibrary.org/obo/CL_1000443>)
+# Class: <http://purl.obolibrary.org/obo/CL_1000443> (ciliary muscle cell)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_1000443> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_1000443> "ciliary muscle cell")
 
-# Class: <http://purl.obolibrary.org/obo/CL_4023129> (<http://purl.obolibrary.org/obo/CL_4023129>)
+# Class: <http://purl.obolibrary.org/obo/CL_4023129> (retinoblast)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_4023129> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_4023129> "retinoblast")
 
-# Class: <http://purl.obolibrary.org/obo/CL_4033015> (<http://purl.obolibrary.org/obo/CL_4033015>)
+# Class: <http://purl.obolibrary.org/obo/CL_4033015> (retinal astrocyte)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_4033015> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_4033015> "retinal astrocyte")
 
 
 )

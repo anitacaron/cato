@@ -1,5 +1,5 @@
 ID,subset,label
-ID,AI oboInOwl:inSubset,
+ID,AI oboInOwl:inSubset,LABEL
 CL:0000287,http://purl.obolibrary.org/obo/cl#eye_upper_slim,eye photoreceptor cell
 CL:0000636,http://purl.obolibrary.org/obo/cl#eye_upper_slim,Mueller cell
 CL:0000748,http://purl.obolibrary.org/obo/cl#eye_upper_slim,retinal bipolar neuron
