@@ -1,11 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <catalog prefer="public" xmlns="urn:oasis:names:tc:entity:xmlns:xml:catalog">
-<group id="Folder Repository, directory=, recursive=false, Auto-Update=false, version=2" prefer="public" xml:base="">
-
-  
-
-
-  
-
-</group>
+<group id="Folder Repository, directory=, recursive=false, Auto-Update=false, version=2" prefer="public" xml:base=""/>
+<uri name="http://purl.obolibrary.org/obo/cato/components/example.owl" uri="components/example.owl"/>
+<uri name="http://purl.obolibrary.org/obo/cato/imports/cl_import.owl" uri="imports/cl_import.owl"/>
 </catalog>

@@ -11,3 +11,23 @@ release_artefacts:
 edit_format: ofn
 documentation:
   documentation_system: mkdocs
+import_group:
+  products:
+    - id: cl
+      use_base: true
+      module_type: filter
+components:
+  products:
+    - filename: example.owl
+      use_template: true
+      templates:
+        - example.csv
+custom_makefile_header: |
+  ### Workflow
+  #
+  # Tasks to update templates.
+  #
+  # #### Template
+  #
+  # 1. [Update template](update_template)
+  # 2. [Rebuild Template](components/example.owl)
