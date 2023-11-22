@@ -11,3 +11,31 @@ $(TEMPLATEDIR)/example.csv:
 
 .PHONY: update_template
 update_template: $(TEMPLATEDIR)/example.csv
+
+### Nanobot
+NANOBOT_URL := https://github.com/ontodev/nanobot.rs/releases/download/v2023-10-26/nanobot-x86_64-unknown-linux-musl
+
+nanobot:
+	rm -f $@ $@-*
+	curl -L -o $@ $(NANOBOT_URL)
+	chmod +x $@
+
+NANOBOT := ./nanobot
+
+### Databases
+
+TABLES := $(shell cut -f 2 src/tables/table.tsv | tail -n+2)
+
+.PHONY: clean
+clean:
+	rm -rf .nanobot.db nanobot build/
+
+.nanobot.db: $(NANOBOT)
+	$(NANOBOT) init
+
+.PHONY: init
+init: .nanobot.db
+
+.PHONY: serve
+serve: .nanobot.db
+	$(NANOBOT) serve

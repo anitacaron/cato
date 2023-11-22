@@ -11,8 +11,16 @@
 #
 # #### Template
 #
-# 1. [Update template](update_template)
-# 2. [Rebuild Template](components/example.owl)
+# 1. `make load` dependencies, imports, and ontology
+# 2. view and edit with `./nanobot` then `make save`
+# 3. `make reload` imports and ontology
+# 4. check the `git diff`
+# 5. `git commit` then `git push` your changes
+#
+##### Files
+#
+# - `make cato.owl`
+# - validation `make build/messages.tsv`
 
 # ----------------------------------------
 # Standard Constants
