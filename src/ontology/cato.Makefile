@@ -18,14 +18,13 @@ NANOBOT_URL := https://github.com/ontodev/nanobot.rs/releases/download/v2023-10-
 nanobot:
 	rm -f $@ $@-*
 	curl -L -o $@ $(NANOBOT_URL)
-	mv $@ ./../../$@
-	chmod +x ./../../$@
+	chmod +x $@
 
 NANOBOT := ./nanobot
 
 ### Databases
 
-TABLES := $(shell cut -f 2 src/schema/table.tsv | tail -n+2)
+TABLES := $(shell cut -f 2 src/tables/table.tsv | tail -n+2)
 
 .PHONY: clean
 clean:
