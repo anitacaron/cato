@@ -11,7 +11,7 @@
 #
 # #### Template
 #
-# 1. `make load` dependencies, imports, and ontology
+# 1. `make init` dependencies, imports, and ontology
 # 2. view and edit with `./nanobot` then `make save`
 # 3. `make reload` imports and ontology
 # 4. check the `git diff`

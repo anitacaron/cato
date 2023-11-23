@@ -39,5 +39,3 @@ init: .nanobot.db
 .PHONY: serve
 serve: .nanobot.db
 	$(NANOBOT) serve
-
-load: init
