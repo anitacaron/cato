@@ -1,0 +1,5 @@
+#!/bin/sh
+if [ ! -f .nanobot.db ]; then
+  ../../nanobot init > /dev/null 2>&1
+fi
+../../nanobot $@
