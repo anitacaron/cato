@@ -16,11 +16,14 @@
 # 3. `make reload` imports and ontology
 # 4. check the `git diff`
 # 5. `git commit` then `git push` your changes
-#
+# 
 ##### Files
 #
 # - `make cato.owl`
 # - validation `make build/messages.tsv`
+##### Maintenance
+#
+# `make clean` when necessary
 
 # ----------------------------------------
 # Standard Constants
