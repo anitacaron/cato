@@ -16,8 +16,8 @@ update_template: $(TEMPLATEDIR)/example.csv
 NANOBOT_URL := https://github.com/ontodev/nanobot.rs/releases/download/v2023-11-30/nanobot-x86_64-unknown-linux-musl
 
 nanobot:
-	rm -f ../../nanobot ../../nanobot-*
-	curl -L -o ../../nanobot $(NANOBOT_URL)
+	#rm -f ../../nanobot ../../nanobot-*
+	#curl -L -o ../../nanobot $(NANOBOT_URL)
 	chmod +x $@
 
 NANOBOT := ./nanobot
