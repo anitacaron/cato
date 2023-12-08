@@ -17,3 +17,6 @@ datatype	description		empty	text		a description of this datatype
 datatype	SQLite type		empty	sql_type		the SQLite type for representing this data
 datatype	PostgreSQL type		empty	sql_type		the PostgreSQL type for representing this data
 datatype	HTML type		empty	html_type		the HTML type for viewing and editing this data
+example	ID			ontology_id		
+example	subset			text		
+example	label			ontology_label
