@@ -4,7 +4,7 @@ if [ ! -f .nanobot.db ]; then
   if [ ! -f nanobot ]; then
     curl -L -o nanobot $NANOBOT_URL
     chmod +x nanobot
-    nanobot init > /tmp/null 2>&1
+    ./nanobot init > /tmp/null 2>&1
   fi
 fi
-nanobot $@
+./nanobot $@
