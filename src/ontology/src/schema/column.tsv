@@ -19,4 +19,4 @@ datatype	PostgreSQL type		empty	sql_type		the PostgreSQL type for representing t
 datatype	HTML type		empty	html_type		the HTML type for viewing and editing this data
 example	ID			ontology_id		
 example	subset			text		
-example	label			ontology_label
+example	label			ontology_label		
