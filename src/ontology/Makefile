@@ -11,8 +11,8 @@
 #
 # #### Template
 #
-# 1. Initialise `make nanobot` dependencies, imports, and ontology
-# 2. view and edit with `./nanobot` then `make save`
+# 1. Initialise `make _nanobot` dependencies, imports, and ontology
+# 2. view and edit with `./_nanobot` then `make save`
 # 3. `make reload` imports and ontology
 # 4. check the `git diff`
 # 5. `git commit` then `git push` your changes
@@ -21,6 +21,7 @@
 #
 # - `make cato.owl`
 # - validation `make build/messages.tsv`
+#
 ##### Maintenance
 #
 # `make clean` when necessary
