@@ -7,4 +7,9 @@ fi
 if [ ! -f .nanobot.db ]; then
   ./nanobot init > /tmp/null 2>&1
 fi
+
+export GATEWAY_INTERFACE=CGI/1.1
+export REQUEST_METHOD=GET
+export PATH_INFO=/table
+export QUERY_STRING=""
 ./nanobot $@
