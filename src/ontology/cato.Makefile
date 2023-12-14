@@ -28,7 +28,7 @@ TABLES := $(shell cut -f 2 src/schema/table.tsv | tail -n+2)
 
 .PHONY: clean
 clean:
-	rm -rf .nanobot.db nanobot
+	rm -rf .nanobot.db
 
 .nanobot.db: $(NANOBOT)
 	$(NANOBOT) init
