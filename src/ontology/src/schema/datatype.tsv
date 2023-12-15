@@ -10,4 +10,4 @@ html_type	word	in('text', 'textarea', 'search', 'radio', 'number', 'select')	an 
 ontology_id	nonspace	match(/\w+:\w+/)	CURIE that does not begin or end with whitespace	TEXT	TEXT	
 ontology_label	trimmed_text	match(/[^\s]+.+[^\s]/)	label that does not begin or end with whitespace			text
 trimmed_text	text	exclude(/^\s+|\s+$/)	text that does not begin or end with whitespace			
-nonspace	trimmed_line	exclude(/\s/)	text without whitespace			
+nonspace	trimmed_text	exclude(/\s/)	text without whitespace			
