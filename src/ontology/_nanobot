@@ -5,7 +5,7 @@ if [ ! -f nanobot ]; then
   chmod +x nanobot
 fi
 if [ ! -f .nanobot.db ] || [ ! -s .nanobot.db ]; then
-  ./nanobot init > /tmp/null 2>&1
+  ./nanobot init >> nanobot.log 2>&1
 fi
 
 # export GATEWAY_INTERFACE=CGI/1.1
