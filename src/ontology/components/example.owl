@@ -7,8 +7,8 @@ Prefix(rdfs:=<http://www.w3.org/2000/01/rdf-schema#>)
 
 
 Ontology(<http://purl.obolibrary.org/obo/cato/components/example.owl>
-<http://purl.obolibrary.org/obo/cato/releases/2023-09-29/components/example.owl>
-Annotation(owl:versionInfo "2023-09-29")
+<http://purl.obolibrary.org/obo/cato/releases/2023-12-15/components/example.owl>
+Annotation(owl:versionInfo "2023-12-15")
 
 Declaration(Class(<http://purl.obolibrary.org/obo/CL_0000132>))
 Declaration(Class(<http://purl.obolibrary.org/obo/CL_0000287>))
@@ -121,10 +121,10 @@ AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002363> "kera
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0002485> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
 AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002485> "retinal melanocyte")
 
-# Class: <http://purl.obolibrary.org/obo/CL_0002565> (iris pigment epithelial cell)
+# Class: <http://purl.obolibrary.org/obo/CL_0002565> (iris pigment epithelial cell!!!)
 
 AnnotationAssertion(<http://www.geneontology.org/formats/oboInOwl#inSubset> <http://purl.obolibrary.org/obo/CL_0002565> <http://purl.obolibrary.org/obo/cl#eye_upper_slim>)
-AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002565> "iris pigment epithelial cell")
+AnnotationAssertion(rdfs:label <http://purl.obolibrary.org/obo/CL_0002565> "iris pigment epithelial cell!!!")
 
 # Class: <http://purl.obolibrary.org/obo/CL_0002585> (retinal blood vessel endothelial cell)
 
