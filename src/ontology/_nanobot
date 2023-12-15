@@ -6,7 +6,6 @@ if [ ! -f nanobot ]; then
 fi
 if [ ! -f .nanobot.db ] || [ ! -s .nanobot.db ]; then
   GATEWAY_INTERFACE=NONE ./nanobot init > /tmp/null 2>&1
-  sleep 1
 fi
 
 # export GATEWAY_INTERFACE=CGI/1.1
