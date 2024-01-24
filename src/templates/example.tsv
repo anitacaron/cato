@@ -2,7 +2,7 @@ ID	subset	label
 CL:0000287	http://purl.obolibrary.org/obo/cl#eye_upper_slim	eye photoreceptor cell
 CL:0000636	http://purl.obolibrary.org/obo/cl#eye_upper_slim	Mueller cell
 CL:0000748	http://purl.obolibrary.org/obo/cl#eye_upper_slim	retinal bipolar neuron
-CL:0000745	http://purl.obolibrary.org/obo/cl#eye_upper_slim	retina horizontal cell
+CL:0007745	http://purl.obolibrary.org/obo/cl#eye_upper_slim	retina horizontal cell
 CL:0000740	http://purl.obolibrary.org/obo/cl#eye_upper_slim	retinal ganglion cell
 CL:0000561	http://purl.obolibrary.org/obo/cl#eye_upper_slim	amacrine cell
 CL:0000575	http://purl.obolibrary.org/obo/cl#eye_upper_slim	corneal epithelial cell
@@ -23,3 +23,4 @@ CL:0002303	http://purl.obolibrary.org/obo/cl#eye_upper_slim	changed label
 CL:0002304	http://purl.obolibrary.org/obo/cl#eye_upper_slim	non-pigmented ciliary epithelial cell
 CL:0002485	http://purl.obolibrary.org/obo/cl#eye_upper_slim	retinal melanocyte
 CL:0002586	http://purl.obolibrary.org/obo/cl#eye_upper_slim	retinal pigment epithelial cell
+CL:1111111	subset_test	testing
